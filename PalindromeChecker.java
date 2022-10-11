@@ -3,10 +3,7 @@
  * San Francisco State University
  * CSC 220 -  Data Structures
  * File Name: PalindromeChecker.java
- * Author: Frank M. Carrano
- * Author: Timothy M. Henry
- * Author: Duc Ta
- * Author: <First Name> <Last Name>
+ * Author: Abdarrahman Ayyaz
  * **********************************************
  */
 
@@ -14,10 +11,7 @@ package assignment03PartB;
 
 import java.util.Scanner;
 
-//
-// - Do not change the "main" method.
-// - Please ADD CODE to complete implementing the program
-//
+
 public class PalindromeChecker {
 
     private static boolean isPalindrome(String string)
@@ -50,15 +44,9 @@ public class PalindromeChecker {
         }
     } 
 
-    //
-    // - Do not change the "main" method.
-    // - Please ADD CODE to complete implementing the program
-    //
+   
     public static void main(String[] args) {
-        //
-        // - Do not change the "main" method.
-        // - Please ADD CODE to complete implementing the program
-        //
+     
         Scanner input = new Scanner(System.in);
         System.out.print("[>>] Enter a string (or a ! to exit): ");
         String string = input.nextLine();
@@ -74,9 +62,6 @@ public class PalindromeChecker {
         }
 
         System.out.println("[<<] Thank you!");
-        //
-        // - Do not change the "main" method.
-        // - Please ADD CODE to complete implementing the program
-        //
+     
     }
 }
