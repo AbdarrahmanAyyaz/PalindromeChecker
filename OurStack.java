@@ -3,10 +3,7 @@
  * San Francisco State University
  * CSC 220 -  Data Structures
  * File Name: OurStack.java
- * Author: Frank M. Carrano
- * Author: Timothy M. Henry
- * Author: Duc Ta
- * Author: <First Name> <Last Name>
+ * Author: <Abdarrahman> <Ayyaz>
  * **********************************************
  */
 
