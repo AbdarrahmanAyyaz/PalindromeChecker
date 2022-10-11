@@ -3,7 +3,7 @@
  * San Francisco State University
  * CSC 220 -  Data Structures
  * File Name: OurStack.java
- * Author: <Abdarrahman> <Ayyaz>
+ * Author: Abdarrahman Ayyaz
  * **********************************************
  */
 
